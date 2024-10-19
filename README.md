@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Taniya Vallecha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭I am currently working on various web development projects, focusing on building responsive **, user-friendly interfaces**
+
+- 🌱 I'm currently learning advanced web development frameworks, improving my skills in React and JavaScript, and diving deeper into **backend technologies and APIs.**
+
+- 👯 I'm looking to collaborate on web development projects, particularly those that involve creating innovative **and user-centric applications.**
+
+- 🤝 I'm looking for help with exploring advanced web development techniques, optimizing performance for large-scale applications, and integrating cutting-edge technologies like AI **and machine learning into web projects.**
+
 - 📫 How to reach me **taniyavallecha@gmail.com**
 
 - ⚡ Fun fact **I can easily spend a whole day perfecting a single design—because who needs a deadline when creativity is calling?**
